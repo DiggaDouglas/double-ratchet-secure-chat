@@ -1,4 +1,4 @@
-# ICS 3201 Computer Security and Cryptography — Project 2: End-to-End Encrypted Chat Client
+# Computer Security and Cryptography — Project : End-to-End Encrypted Chat Client
 
 ## Project Overview
 This project implements a secure, efficient end-to-end encrypted chat client using the Double Ratchet Algorithm, as specified in the Signal protocol. The main goal is to provide forward secrecy and break-in recovery for communications, even in the presence of government surveillance. All messages include the session key encrypted with a fixed government public key, as required by the assignment.
