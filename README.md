@@ -33,7 +33,7 @@ This project implements a secure, efficient end-to-end encrypted chat client usi
   - Tests simulate multiple clients, certificate exchange, and secure messaging.
   - The government decryption logic is validated using the provided test cases.
 
-  ![Demo Frontend](test.png)
+  ![Demo Frontend](w24_proj2_source/test.png)
 
 ## How to Run and Test
 
@@ -90,6 +90,6 @@ npm run lint-fix
   3. Run `npm start` to launch the React app (usually at http://localhost:3000).
   4. The frontend allows you to register, send messages, and view certificates in a simulated environment.
 - Screenshot of the demo frontend:
-  ![Demo Frontend](frontend.png)
+  ![Demo Frontend](w24_proj2_source/frontend.png)
 
 For further details, see the assignment specification and comments in `lib.js` and `test/test-messenger.js`.
